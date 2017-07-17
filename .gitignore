@@ -23,3 +23,6 @@ ObjectiveC.gcda
 
 # CocoaPods
 Pods
+
+# FBSnapshot
+STExampleTests/FailureDiffs
