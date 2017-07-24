@@ -21,7 +21,7 @@ class ViewController: UIViewController {
   
     override func viewDidLoad() {
         super.viewDidLoad()
-        lbTest.text = "ST Example"
+        lbTest.text = "TITLE_ES"
     }
 
     override func didReceiveMemoryWarning() {
